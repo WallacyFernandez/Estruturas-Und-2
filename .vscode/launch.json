@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/walla/Área de Trabalho/Trabalhodestruturas/Estruturas-Und-2",
-      "program": "c:/Users/walla/Área de Trabalho/Trabalhodestruturas/Estruturas-Und-2/build/Debug/outDebug",
+      "cwd": "c:/Users/walla/Área de Trabalho/Trabalhodestruturas/Estruturas-Und-2/BuscaPorInterpolacao",
+      "program": "c:/Users/walla/Área de Trabalho/Trabalhodestruturas/Estruturas-Und-2/BuscaPorInterpolacao/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
